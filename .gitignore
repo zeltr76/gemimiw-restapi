@@ -1,0 +1,6 @@
+# Local env files
+.env
+.env.Local
+.env.prod
+
+node_modules
