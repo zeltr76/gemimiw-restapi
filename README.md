@@ -15,6 +15,6 @@ LMAO, NO. I just didn't have the time to write some unit test.
 
 ## How-to-run
 
-In the mean time, this cannot be run outside the creator's machine because he (me, an exceptional thinker) haven't created the database migration and the .env.example file.
+In the mean time, this cannot be run outside the creator's machine because he (me, an exceptional thinker) haven't created the database migration.
 
 Please, be patient. I will do that, maybe...
